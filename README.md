@@ -1,6 +1,8 @@
 ### Bonjour
 
-Je suis maître de conférences à l'Université Gustave Eiffel. Je suis responable de la filière informatique de l'École Supérieur d'Ingénieur de Paris Est (ESIPE).
+Je suis maître de conférences à l'Université Gustave Eiffel. Je suis responable de la filière ingénieur informatique Architecture, Design et Développement de l'ESIEE Paris (ex-ESIPE).
+
+Je contribue à quelques projets open-source. Recement, j'essaie de vendre [mes prographs Produit Coproduit](https://github.com/nborie/PC-Prograph-Editor#readme).
 
 Je suis un contributeur actif et régulier de la plateforme d'enseignement [Premier Langage](https://premierlangage.github.io/PLaTon-web/).
 
